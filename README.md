@@ -5,6 +5,6 @@ npm install user-agents-gen
 
 ## How to use
 ```javascript
-const fakeUserAgent = require('fake-useragent');
+const fakeUserAgent = require('user-agents-gen');
 console.log(fakeUserAgent());
 ```

@@ -1005,7 +1005,10 @@ var UAs = [
 
 var N = UAs.length;
 
-module.exports = function() {
-    var randomIndex = Math.floor(Math.random() * N);
-    return UAs[randomIndex];
+function fakeUserAgent() {
+  var randomIndex = Math.floor(Math.random() * N);
+  return UAs[randomIndex];
 }
+
+module.exports = fakeUserAgent;
+export default fakeUserAgent;
