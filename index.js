@@ -1010,5 +1010,4 @@ function fakeUserAgent() {
   return UAs[randomIndex];
 }
 
-module.exports = fakeUserAgent;
 export default fakeUserAgent;
