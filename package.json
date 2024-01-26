@@ -1,0 +1,19 @@
+{
+  "name": "user-agents-gen",
+  "version": "1.0.1",
+  "description": "fake userAgent generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eskeyv/user-agent-gen.git"
+  },
+  "author": "eskeyv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eskeyv/user-agent-gen/issues"
+  },
+  "homepage": "https://github.com/eskeyv/user-agent-gen#readme"
+}
