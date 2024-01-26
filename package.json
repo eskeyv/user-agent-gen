@@ -1,6 +1,6 @@
 {
   "name": "user-agents-gen",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "fake userAgent generator",
   "main": "index.js",
   "scripts": {
